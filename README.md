@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development. 
 - 🌱 I’m currently learning web-devloment for full stack.
 - 💞️ I’m looking to collaborate on python,javascript,web-devlopment related projects for backend and front-end.
-- 📫 How to reach me this is my email id-abhishar226273@gmail.com
+- 📫 How to reach me this is my email-id abhishar226273@gmail.com
 
 
 <!---
